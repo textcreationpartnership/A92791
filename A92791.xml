@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable caution to the Citie of London</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92791</idno><idno type="EEBO-CITATION">99864257</idno>
+  <idno type="VID">116482</idno>
+  <idno type="EEBO-PROQUEST">2240905123</idno>
+  
+            <idno type="STC">Wing S2221</idno>
+            <idno type="STC">Thomason E445_33</idno>
+            <idno type="STC">ESTC R204796</idno>
+            <idno type="PROQUEST">99864257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864257e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116482)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable caution to the Citie of London</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 2d:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116482:1"/>
+            <p>A SEASONABLE CAUTION TO THE CITIE OF LONDON.</p>
+            <p>Printed in the Yeer 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116482:2"/>
+            <pb n="3" facs="tcp:116482:2"/>
+            <head>A Seasonable Caution TO THE City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen of the City,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Neighbours of <hi>Kent,</hi> and other Counties wish<g ref="char:EOLhyphen"/>ing well to them, take it unkindly, that (notwith<g ref="char:EOLhyphen"/>standing all these former admonitions) you should let down your chains, &amp; give a free march to this bloody, cheating, schismaticall Army at all hours of the night through your Ci<g ref="char:EOLhyphen"/>ty to cut their throats, and lend them six
+<pb n="4" facs="tcp:116482:3"/>thousand pounds to enable them to march: when they had no other designe, but in a peaceable way to deliver a Petition to the Houses, demanding nothing but what the Parliament by their Declarations, Cove<g ref="char:EOLhyphen"/>nant, the Oaths of Supremacy and Alle<g ref="char:EOLhyphen"/>geance, and the known Laws of the Land ought to grant. Onely, being fore-warn<g ref="char:EOLhyphen"/>ed by the inhumane assacination of the <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> Petitioners, they had some men in arms a sufficient distance from the Town, to se<g ref="char:EOLhyphen"/>cure their Messengers: They have by their Letters to your selves and the Houses ma<g ref="char:EOLhyphen"/>nifested the cleerness of their intentions to you all. They are known to be men of set<g ref="char:EOLhyphen"/>led habitations and fortunes (for the most part), not vagabonds and Souldiers of for<g ref="char:EOLhyphen"/>tune like the Army: Their commerce with you help you both to trade and feed: whereas the Armies insolent march in tri<g ref="char:EOLhyphen"/>umph thorow your Citie so far lessened your reputation ever since, that you con<g ref="char:EOLhyphen"/>stantly lose in your Trading 200000 pounds a week, and no Bullion comes into the Mint; whereby multitudes of you
+<pb n="5" facs="tcp:116482:3"/>are undone, and yet the Armies arreares, and all other Taxes are exacted from you with as much cruelty as if you lost nothing. Remember the Butchery committed upon the unarmed Prentices, when <hi>Crumwell</hi> cry<g ref="char:EOLhyphen"/>ed to the Souldiers, to kill man, woman and child, and fire the City; at which time his nose looked as prodigiously upon you as a Comet. Remember the scorne put upon you by a Grandee when you were enabled to put up our chayns again; That the House had consented, your posts should have chains aswell as your Aldermen, and did as<g ref="char:EOLhyphen"/>well deserve them. And <hi>Weaver's</hi> word when your Guards came to attend the House, that threescore of the Army should beat 300 of them.</p>
+            <p>Remember how unwillingly and jug<g ref="char:EOLhyphen"/>glingly they restored unto you the Tower (first plundered of all its Amunition you for<g ref="char:EOLhyphen"/>merly had in it) and part only of your Mili<g ref="char:EOLhyphen"/>tia, and that clogged with many restricti<g ref="char:EOLhyphen"/>ons: They that bestow gifts so grudgingly upon you when they are weak, will deprive you of them againe when they are strong,
+<pb n="6" facs="tcp:116482:4"/>Adversity makes them your false friends, Prosperity your Reall Enemies, necessity onely tyes them to you: have a care there<g ref="char:EOLhyphen"/>fore you do not relieve their necessities, least you lose them; like the frozen Snake in the bosome, when they grow warme they will bite and sting. You seem to have for<g ref="char:EOLhyphen"/>gotten the unjust imprisonment of your Al<g ref="char:EOLhyphen"/>dermen; The unfaithfulnesse and incon<g ref="char:EOLhyphen"/>stancy of their Votes and Ordinances, even for security of money, and land bought: the severall Informations and Testimonies you had of their good intentions to borrow more of your money; not by way of loane, nor upon the publick faith, but by way of plunder. Notwithstanding all these inju<g ref="char:EOLhyphen"/>ries and many more (as if God had infatua<g ref="char:EOLhyphen"/>ted you to destroy you) you suffer a corrupt faction within you to list men (to the amaz<g ref="char:EOLhyphen"/>ment of your neighbour Counties) whose principles you first examine, and if they be not Independents, you trust them not with Armes. I hear of a young man who being asked of what principles he was? he an<g ref="char:EOLhyphen"/>swered that in these doubtfull times he pro<g ref="char:EOLhyphen"/>fessed
+<pb n="7" facs="tcp:116482:4"/>no principle but gain: to whom was replyed, Then we are of one principle, for we are resolved to keep what we have got. Behold the principles of these men that ob<g ref="char:EOLhyphen"/>struct our peace! consider that Heaven and earth have denounced war against these men, and that God himself hath touched the hearts of all men as one man to rise against them, and demand to have Peace, Religion, and Justice restored. When the whole King<g ref="char:EOLhyphen"/>dom shall rise in a flame, what will be your lot but smoake in our eyes, and at last a con<g ref="char:EOLhyphen"/>suming fire in your bowels: when you only shall be left to maintain this domineering Army with your money, and to recruit them with your blood? Many of their Officers say already, that the Country is exhausted of money, and you shall be their purse-bea<g ref="char:EOLhyphen"/>rers: but because you are a curst cow, they must keep the Army about you, that the Souldiers may hold you by the <hi>Hornes</hi> whilst their friends milk you. Consider how ab<g ref="char:EOLhyphen"/>solute a necessity, and how generall a resolu<g ref="char:EOLhyphen"/>tion there is that all things should return to their old channel: If you stop the violence
+<pb n="8" facs="tcp:116482:5"/>of this Torrent, it will swell untill it over<g ref="char:EOLhyphen"/>whelm and drown you. You that are guilt<g ref="char:EOLhyphen"/>lesse, joyn not with the guilty: you that are guilty, sin no more: there will be mercy for you if you repent, and amend in time. The very multitude of offenders will help to excuse your offences: Let not despair hurry you from one sin to another untill you fall into destruction, as it did <hi>Judas,</hi> whose despair (by all Divines) is held to be a great impiety then his treachery: by the first he sinned against the God-head of Christ; by the second against his Manhood only.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
